@@ -23,28 +23,12 @@ Passionate about solving complex problems through **scalable software, AI-driven
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent Project
 
 ### [PedalPulse: BlueBikes Demand Forecasting](https://github.com/MLOps-BlueBikes/PedalPulse)
 End-to-end ML pipeline for forecasting bike demand at Boston's BlueBike stations using MLOps best practices.
 - **Tech Stack:** GCP, Python, Airflow, MLflow, Vertex AI
 - **Highlights:** Real-time predictions, automated retraining, cloud deployment with monitoring
-
-### [Kambaz: Learning Management System](https://github.com/RitikaDhall/kambaz-react-web-app/tree/project)
-Comprehensive LMS with course management, real-time chat, and interactive learning modules.
-- **Tech Stack:** React, Node.js, MongoDB, Redux
-- **Highlights:** User authentication, responsive design, progress tracking
-- **[Live Demo](https://project--quiet-raindrop-816278.netlify.app/)**
-
-### [FireChat](https://github.com/RitikaDhall/FireChat)
-Real-time iOS chat application with comprehensive media sharing capabilities.
-- **Tech Stack:** Swift, XCode, Firebase, NoSQL
-- **Highlights:** Real-time messaging, media sharing (photos, videos, location), offline support
-
-### [Java PixelPro](https://github.com/RitikaDhall/image-manipulation-enhancement)
-Image manipulation application with GUI and CLI interfaces, built with MVC architecture.
-- **Tech Stack:** Java, Swing, JUnit
-- **Highlights:** 15+ image operations, SOLID principles, histogram visualization, batch processing
 
 ---
 
