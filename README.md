@@ -2,13 +2,11 @@
 
 **Software Engineer | Full-Stack Development • AI/ML • MLOps**
 
-Passionate about solving complex problems through **scalable software, AI-driven solutions, and efficient ML pipelines**. I love turning data into actionable insights and building impactful applications that enhance user experiences.
+I enjoy building (and, more importantly, using!) software with practical applications and intuitive design that makes everyday life just a little smoother.
 
-**MS in Computer Science** @ Northeastern University, Boston
-
-🎓 Graduating December 2025  
-📍 Boston, MA  
-🚀 **Available for SDE1 opportunities starting December 2025**
+📍 Seattle, WA  
+🎓 Graduated December 2025 | MS in Computer Science @ Northeastern University, Boston  
+🚀 **Available for SDE1 opportunities starting December 2025**  
 
 ---
 
@@ -21,17 +19,15 @@ Passionate about solving complex problems through **scalable software, AI-driven
 - **Neo4j** – researching graph databases for my ongoing recommendation project
 - **Cloud-Native MLOps** – streamlining ML pipelines with AWS, Docker, and Kubernetes
 
----
-
 ## 🚀 Recent Project
 
-### [PedalPulse: BlueBikes Demand Forecasting](https://github.com/MLOps-BlueBikes/PedalPulse)
+#### [PedalPulse: BlueBikes Demand Forecasting](https://github.com/MLOps-BlueBikes/PedalPulse)
 End-to-end ML pipeline for forecasting bike demand at Boston's BlueBike stations using MLOps best practices.
 - **Tech Stack:** GCP, Python, Airflow, MLflow, Vertex AI
 - **Highlights:** Real-time predictions, automated retraining, cloud deployment with monitoring
 
 ---
-
+<!--
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -68,21 +64,16 @@ End-to-end ML pipeline for forecasting bike demand at Boston's BlueBike stations
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+--->
 
 ## ⚡ Beyond Code
 
-- When I'm not coding, I enjoy spending time with my three dogs! 🐶🐶🐶
 - I love reading 📚 Currently buried nose deep in an Agatha Christie mystery 🔍
+- My daily coffee ☕ pairs best with a good brainteaser 🧩 Current favorite: [MinuteCryptic](https://minutecryptic.com/) 🔍
 
 ---
 
 💡 *Open to full-time SDE1 opportunities starting December 2025*
 
-## 📬 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritikapdhall@gmail.com)
-
-
----
+## 📬 **Reach me at** &emsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritikapdhall@gmail.com)
 
